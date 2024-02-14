@@ -1,446 +1,442 @@
 ﻿Name,Rank,Salary,University,Mult,Adjusted_Salary
-"Hussain, Muzammil Mohammed",Assistant Professor,95693,Michigan_Ann_Arbor,0.8695,83205.0635
-"Williams, Apryl",Assistant Professor,93755,Michigan_Ann_Arbor,0.8695,81519.9725
-"Hasell, Ariel",Assistant Professor,93605,Michigan_Ann_Arbor,0.8695,81389.5475
-"Lu, Hang",Assistant Professor,92161,Michigan_Ann_Arbor,0.8695,80133.9895
-"Malhotra, Pranav",Assistant Professor,86000,Michigan_Ann_Arbor,0.8695,74777
-"Ryan, John Barry",Associate Professor,145000,Michigan_Ann_Arbor,0.8695,126077.5
-"Griffin, F Hollis",Associate Professor,131493,Michigan_Ann_Arbor,0.8695,114333.1635
-"Wallis, Cara",Associate Professor,128500,Michigan_Ann_Arbor,0.8695,111730.75
-"Halegoua, Germain",Associate Professor,124190,Michigan_Ann_Arbor,0.8695,107983.205
-"Ankerson, Megan Sapnar",Associate Professor,121935,Michigan_Ann_Arbor,0.8695,106022.4825
-"Pasek, Joshua Michael",Associate Professor,121934,Michigan_Ann_Arbor,0.8695,106021.613
-"Weeks, Brian",Associate Professor,113816,Michigan_Ann_Arbor,0.8695,98963.012
-"Collings, Anthony C",Lecturer,134915.47,Michigan_Ann_Arbor,0.8695,117309.0012
-"Sukhanyar, Ahmad Jawad",Lecturer,88898.26,Michigan_Ann_Arbor,0.8695,77297.03707
-"Draper Jr, James",Lecturer,85697.5,Michigan_Ann_Arbor,0.8695,74513.97625
-"Seeger, Henry Skoving",Lecturer,68000,Michigan_Ann_Arbor,0.8695,59126
 "Mustafaj, Matea",Lecturer,51000,Michigan_Ann_Arbor,0.8695,44344.5
 "Moerkerke, Geertrui",Lecturer,51000,Michigan_Ann_Arbor,0.8695,44344.5
 "Frankel, Jonathan",Lecturer,51000,Michigan_Ann_Arbor,0.8695,44344.5
 "Braun, Gregory Scott",Lecturer,51000,Michigan_Ann_Arbor,0.8695,44344.5
-"Douglas, Susan J",Professor,228403,Michigan_Ann_Arbor,0.8695,198596.4085
-"Van Den Bulck, Jan",Professor,188901,Michigan_Ann_Arbor,0.8695,164249.4195
-"Krupnikov, Yanna",Professor,183934,Michigan_Ann_Arbor,0.8695,159930.613
-"Sandvig, Christian E",Professor,168566,Michigan_Ann_Arbor,0.8695,146568.137
-"Vaillant, Derek W",Professor,158817,Michigan_Ann_Arbor,0.8695,138091.3815
-"Campbell, Scott Walker",Professor,152012,Michigan_Ann_Arbor,0.8695,132174.434
-"Powers, Devon Jamara",Professor,147434,Michigan_Ann_Arbor,0.8695,128193.863
-"Dal Cin, Sonya",Professor,146854,Michigan_Ann_Arbor,0.8695,127689.553
+"Seeger, Henry Skoving",Lecturer,68000,Michigan_Ann_Arbor,0.8695,59126
+"Draper Jr, James",Lecturer,85697.5,Michigan_Ann_Arbor,0.8695,74513.97625
+"Malhotra, Pranav",Assistant Professor,86000,Michigan_Ann_Arbor,0.8695,74777
+"Sukhanyar, Ahmad Jawad",Lecturer,88898.26,Michigan_Ann_Arbor,0.8695,77297.03707
+"Lu, Hang",Assistant Professor,92161,Michigan_Ann_Arbor,0.8695,80133.9895
+"Hasell, Ariel",Assistant Professor,93605,Michigan_Ann_Arbor,0.8695,81389.5475
+"Williams, Apryl",Assistant Professor,93755,Michigan_Ann_Arbor,0.8695,81519.9725
+"Hussain, Muzammil Mohammed",Assistant Professor,95693,Michigan_Ann_Arbor,0.8695,83205.0635
+"Weeks, Brian",Associate Professor,113816,Michigan_Ann_Arbor,0.8695,98963.012
+"Pasek, Joshua Michael",Associate Professor,121934,Michigan_Ann_Arbor,0.8695,106021.613
+"Ankerson, Megan Sapnar",Associate Professor,121935,Michigan_Ann_Arbor,0.8695,106022.4825
+"Halegoua, Germain",Associate Professor,124190,Michigan_Ann_Arbor,0.8695,107983.205
+"Wallis, Cara",Associate Professor,128500,Michigan_Ann_Arbor,0.8695,111730.75
+"Griffin, F Hollis",Associate Professor,131493,Michigan_Ann_Arbor,0.8695,114333.1635
+"Collings, Anthony C",Lecturer,134915.47,Michigan_Ann_Arbor,0.8695,117309.0012
 "Hart, Philip Solomon",Professor,141301,Michigan_Ann_Arbor,0.8695,122861.2195
-"Hernandez, Rachael Agnes",Assistant Professor,85280,Missouri,1.0027,85510.256
-"Ranjit, Yerina Shrestha",Assistant Professor,81281.2,Missouri,1.0027,81500.65924
-"Villamil Monroy, Astrid Milena",Assistant Professor,84245,Missouri,1.0027,84472.4615
-"Colaner, Colleen Michele Warner",Associate Professor,90000,Missouri,1.0027,90243
-"Horstman, Haley Ann",Associate Professor,89703.94,Missouri,1.0027,89946.14064
-"Meisenbach, Rebecca J",Associate Professor,84949.48,Missouri,1.0027,85178.8436
-"Riles, Julius Matthew",Associate Professor,90446.09,Missouri,1.0027,90690.29444
-"Warner, Benjamin R",Associate Professor,85749.97,Missouri,1.0027,85981.49492
+"Ryan, John Barry",Associate Professor,145000,Michigan_Ann_Arbor,0.8695,126077.5
+"Dal Cin, Sonya",Professor,146854,Michigan_Ann_Arbor,0.8695,127689.553
+"Powers, Devon Jamara",Professor,147434,Michigan_Ann_Arbor,0.8695,128193.863
+"Campbell, Scott Walker",Professor,152012,Michigan_Ann_Arbor,0.8695,132174.434
+"Vaillant, Derek W",Professor,158817,Michigan_Ann_Arbor,0.8695,138091.3815
+"Sandvig, Christian E",Professor,168566,Michigan_Ann_Arbor,0.8695,146568.137
+"Krupnikov, Yanna",Professor,183934,Michigan_Ann_Arbor,0.8695,159930.613
+"Van Den Bulck, Jan",Professor,188901,Michigan_Ann_Arbor,0.8695,164249.4195
+"Douglas, Susan J",Professor,228403,Michigan_Ann_Arbor,0.8695,198596.4085
 "Coleman, Michael Anthony",Lecturer,41416.06,Missouri,1.0027,41527.88336
+"Yueh, Hsin-I Sydney",Lecturer,52616,Missouri,1.0027,52758.0632
+"Klien, Stephen Andrew",Lecturer,59151.09,Missouri,1.0027,59310.79794
 "Hales, Kevin J.",Lecturer,60000,Missouri,1.0027,60162
 "Josey, Christopher Steven",Lecturer,75320,Missouri,1.0027,75523.364
-"Klien, Stephen Andrew",Lecturer,59151.09,Missouri,1.0027,59310.79794
-"Yueh, Hsin-I Sydney",Lecturer,52616,Missouri,1.0027,52758.0632
+"Ranjit, Yerina Shrestha",Assistant Professor,81281.2,Missouri,1.0027,81500.65924
+"Villamil Monroy, Astrid Milena",Assistant Professor,84245,Missouri,1.0027,84472.4615
+"Meisenbach, Rebecca J",Associate Professor,84949.48,Missouri,1.0027,85178.8436
+"Hernandez, Rachael Agnes",Assistant Professor,85280,Missouri,1.0027,85510.256
+"Warner, Benjamin R",Associate Professor,85749.97,Missouri,1.0027,85981.49492
+"Horstman, Haley Ann",Associate Professor,89703.94,Missouri,1.0027,89946.14064
+"Colaner, Colleen Michele Warner",Associate Professor,90000,Missouri,1.0027,90243
+"Riles, Julius Matthew",Associate Professor,90446.09,Missouri,1.0027,90690.29444
 "Dougherty, Debbie S",Professor,94442.3,Missouri,1.0027,94697.29421
 "Houston, John Brian",Professor,121415.06,Missouri,1.0027,121742.8807
-"Brinberg, Mimi",Assistant Professor,92700,Ohio_State,1.0041,93080.07
+"Miller, Timothy",Lecturer,34800,Ohio_State,1.0041,34942.68
+"Roberts-Crews, Jasmine",Lecturer,38637.98,Ohio_State,1.0041,38796.39572
+"Francemone, Charles",Lecturer,42000,Ohio_State,1.0041,42172.2
+"Poulsen, Shannon",Lecturer,42000,Ohio_State,1.0041,42172.2
+"Davidson, Emily",Lecturer,44792.6,Ohio_State,1.0041,44976.24966
+"Carano, Marla",Lecturer,48000,Ohio_State,1.0041,48196.8
+"Holmes, Katie",Lecturer,48000,Ohio_State,1.0041,48196.8
+"Forsythe, Tonya",Lecturer,50293.86,Ohio_State,1.0041,50500.06483
+"Annen, Kaylea",Lecturer,50452.16,Ohio_State,1.0041,50659.01386
+"Sigler, Kristie",Lecturer,54118.29,Ohio_State,1.0041,54340.17499
+"Carrizo, Leonardo",Lecturer,56789.57,Ohio_State,1.0041,57022.40724
+"Potocki, Bridget",Lecturer,59376.45,Ohio_State,1.0041,59619.89345
+"Farkas, Daniel",Lecturer,61230.64,Ohio_State,1.0041,61481.68562
+"Foster, Melissa",Lecturer,63042.8,Ohio_State,1.0041,63301.27548
+"Barker, Bethany",Lecturer,63669.33,Ohio_State,1.0041,63930.37425
+"Sterenberg, Mary",Assistant Professor,68420.02,Ohio_State,1.0041,68700.54208
+"Hunt, Spencer",Lecturer,80277.6,Ohio_State,1.0041,80606.73816
+"Kraft, Nicole",Associate Professor,85896.49,Ohio_State,1.0041,86248.66561
 "Grady, Sara",Assistant Professor,92500,Ohio_State,1.0041,92879.25
+"Brinberg, Mimi",Assistant Professor,92700,Ohio_State,1.0041,93080.07
+"Partain, Laura",Assistant Professor,92700,Ohio_State,1.0041,93080.07
+"Ross, Felecia",Associate Professor,93820.62,Ohio_State,1.0041,94205.28454
 "Liu, Bingjie",Assistant Professor,94000,Ohio_State,1.0041,94385.4
 "Lynch, Teresa",Assistant Professor,94775.49,Ohio_State,1.0041,95164.06951
 "Matthews, Nic",Assistant Professor,94783.77,Ohio_State,1.0041,95172.38346
-"Partain, Laura",Assistant Professor,92700,Ohio_State,1.0041,93080.07
-"Sterenberg, Mary",Assistant Professor,68420.02,Ohio_State,1.0041,68700.54208
-"Bayer, Joseph",Associate Professor,103902.05,Ohio_State,1.0041,104328.0484
-"Bond, Robert",Associate Professor,115835.82,Ohio_State,1.0041,116310.7469
-"Bonus, Alex",Associate Professor,102549.02,Ohio_State,1.0041,102969.471
-"Coronel, Jason",Associate Professor,105676.04,Ohio_State,1.0041,106109.3118
-"DeAndrea, David",Associate Professor,114691.37,Ohio_State,1.0041,115161.6046
-"Dixon, Graham",Associate Professor,118976.96,Ohio_State,1.0041,119464.7655
-"Fox, Jesse",Associate Professor,119618.1,Ohio_State,1.0041,120108.5342
-"Grizzard, Matthew",Associate Professor,105432.14,Ohio_State,1.0041,105864.4118
-"Holt, Lanier",Associate Professor,106687.36,Ohio_State,1.0041,107124.7782
-"Hovick, Shelly",Associate Professor,106569.9,Ohio_State,1.0041,107006.8366
 "Kline, Susan",Associate Professor,100222.96,Ohio_State,1.0041,100633.8741
-"Kosicki, Gerald",Associate Professor,112391.87,Ohio_State,1.0041,112852.6767
-"Kraft, Nicole",Associate Professor,85896.49,Ohio_State,1.0041,86248.66561
+"Bonus, Alex",Associate Professor,102549.02,Ohio_State,1.0041,102969.471
+"Bayer, Joseph",Associate Professor,103902.05,Ohio_State,1.0041,104328.0484
+"Grizzard, Matthew",Associate Professor,105432.14,Ohio_State,1.0041,105864.4118
+"Shulman, Hillary",Associate Professor,105484.55,Ohio_State,1.0041,105917.0367
+"Coronel, Jason",Associate Professor,105676.04,Ohio_State,1.0041,106109.3118
+"Hovick, Shelly",Associate Professor,106569.9,Ohio_State,1.0041,107006.8366
+"Holt, Lanier",Associate Professor,106687.36,Ohio_State,1.0041,107124.7782
 "Lee-Won, Roselyn",Associate Professor,106842.15,Ohio_State,1.0041,107280.2028
+"Kosicki, Gerald",Associate Professor,112391.87,Ohio_State,1.0041,112852.6767
 "Meng, Jingbo",Associate Professor,112815,Ohio_State,1.0041,113277.5415
 "Moyer-Guse, Emily",Associate Professor,114393.69,Ohio_State,1.0041,114862.7041
-"Ross, Felecia",Associate Professor,93820.62,Ohio_State,1.0041,94205.28454
-"Shulman, Hillary",Associate Professor,105484.55,Ohio_State,1.0041,105917.0367
-"Annen, Kaylea",Lecturer,50452.16,Ohio_State,1.0041,50659.01386
-"Barker, Bethany",Lecturer,63669.33,Ohio_State,1.0041,63930.37425
-"Carano, Marla",Lecturer,48000,Ohio_State,1.0041,48196.8
-"Carrizo, Leonardo",Lecturer,56789.57,Ohio_State,1.0041,57022.40724
-"Davidson, Emily",Lecturer,44792.6,Ohio_State,1.0041,44976.24966
-"Farkas, Daniel",Lecturer,61230.64,Ohio_State,1.0041,61481.68562
-"Forsythe, Tonya",Lecturer,50293.86,Ohio_State,1.0041,50500.06483
-"Foster, Melissa",Lecturer,63042.8,Ohio_State,1.0041,63301.27548
-"Francemone, Charles",Lecturer,42000,Ohio_State,1.0041,42172.2
-"Holmes, Katie",Lecturer,48000,Ohio_State,1.0041,48196.8
-"Hunt, Spencer",Lecturer,80277.6,Ohio_State,1.0041,80606.73816
-"Miller, Timothy",Lecturer,34800,Ohio_State,1.0041,34942.68
-"Potocki, Bridget",Lecturer,59376.45,Ohio_State,1.0041,59619.89345
-"Poulsen, Shannon",Lecturer,42000,Ohio_State,1.0041,42172.2
-"Roberts-Crews, Jasmine",Lecturer,38637.98,Ohio_State,1.0041,38796.39572
-"Sigler, Kristie",Lecturer,54118.29,Ohio_State,1.0041,54340.17499
-"Appiah, Osei",Professor,188707.28,Ohio_State,1.0041,189480.9798
-"Bushman, Brad",Professor,235107.55,Ohio_State,1.0041,236071.491
-"Cho, Hyunyi",Professor,202444.55,Ohio_State,1.0041,203274.5727
-"Eveland, William",Professor,185295.56,Ohio_State,1.0041,186055.2718
-"Nathanson, Amy",Professor,157675.09,Ohio_State,1.0041,158321.5579
-"Slater, Michael",Professor,321496.6,Ohio_State,1.0041,322814.7361
+"DeAndrea, David",Associate Professor,114691.37,Ohio_State,1.0041,115161.6046
+"Bond, Robert",Associate Professor,115835.82,Ohio_State,1.0041,116310.7469
+"Dixon, Graham",Associate Professor,118976.96,Ohio_State,1.0041,119464.7655
+"Fox, Jesse",Associate Professor,119618.1,Ohio_State,1.0041,120108.5342
 "Wang, Zheng",Professor,155717.34,Ohio_State,1.0041,156355.7811
-FooteJeremy,Assistant Professor,111556.32,Purdue,1.019,113675.8901
-ByrdGabrielle A,Assistant Professor,104113.33,Purdue,1.019,106091.4833
-JuIlwoo,Assistant Professor,103817.49,Purdue,1.019,105790.0223
-SongHwanseok,Assistant Professor,104839.79,Purdue,1.019,106831.746
-ZulliDiana G,Assistant Professor,100383.13,Purdue,1.019,102290.4095
-CatalanoCharles S,Assistant Professor,99473.54,Purdue,1.019,101363.5373
-DeAztlanTonantzin,Assistant Professor,92705.79,Purdue,1.019,94467.20001
-BuehlerEmily M,Assistant Professor,88896.14,Purdue,1.019,90585.16666
-SherrickBrett I,Assistant Professor,106745.1,Purdue,1.019,108773.2569
+"Nathanson, Amy",Professor,157675.09,Ohio_State,1.0041,158321.5579
+"Eveland, William",Professor,185295.56,Ohio_State,1.0041,186055.2718
+"Appiah, Osei",Professor,188707.28,Ohio_State,1.0041,189480.9798
+"Cho, Hyunyi",Professor,202444.55,Ohio_State,1.0041,203274.5727
+"Bushman, Brad",Professor,235107.55,Ohio_State,1.0041,236071.491
+"Slater, Michael",Professor,321496.6,Ohio_State,1.0041,322814.7361
 HaughtonChantel N,Assistant Professor,55027.52,Purdue,1.019,56073.04288
-PerraultEvan K,Associate Professor,142045.48,Purdue,1.019,144744.3441
-HoeweJennifer E,Associate Professor,121094.97,Purdue,1.019,123395.7744
-NattJane,Associate Professor,107450.32,Purdue,1.019,109491.8761
-BoersmaCari A,Lecturer,60805.95,Purdue,1.019,61961.26305
 DeutschPamela G,Lecturer,60551.78,Purdue,1.019,61702.26382
-PerraultLindsay,Lecturer,66223.34,Purdue,1.019,67481.58346
+BoersmaCari A,Lecturer,60805.95,Purdue,1.019,61961.26305
 GehresEricka,Lecturer,62318.13,Purdue,1.019,63502.17447
-WrightJonathan D,Lecturer,69238.33,Purdue,1.019,70553.85827
+PerraultLindsay,Lecturer,66223.34,Purdue,1.019,67481.58346
 SchultzJames E,Lecturer,66970.17,Purdue,1.019,68242.60323
-EvansElizabeth A,Lecturer,75081.68,Purdue,1.019,76508.23192
-LatozTraci L,Lecturer,74311.68,Purdue,1.019,75723.60192
+WrightJonathan D,Lecturer,69238.33,Purdue,1.019,70553.85827
 ShafferDavid J,Lecturer,70599.88,Purdue,1.019,71941.27772
-CharlesMatthew H,Lecturer,83281.19,Purdue,1.019,84863.53261
+LatozTraci L,Lecturer,74311.68,Purdue,1.019,75723.60192
+EvansElizabeth A,Lecturer,75081.68,Purdue,1.019,76508.23192
 KohlerMichael L,Lecturer,82453.39,Purdue,1.019,84020.00441
+CharlesMatthew H,Lecturer,83281.19,Purdue,1.019,84863.53261
+BuehlerEmily M,Assistant Professor,88896.14,Purdue,1.019,90585.16666
 DavenportDebra B,Lecturer,90916.61,Purdue,1.019,92644.02559
-MattsonMarifran,Professor,219750.72,Purdue,1.019,223925.9837
-CollinsWilliam B,Professor,189259.87,Purdue,1.019,192855.8075
-SypherHoward E,Professor,180788.29,Purdue,1.019,184223.2675
-ConnaughtonStacey L,Professor,167617.27,Purdue,1.019,170801.9981
-BoydJoshua E,Professor,166924.48,Purdue,1.019,170096.0451
-SparksGlenn G,Professor,161749.09,Purdue,1.019,164822.3227
-RobertsFelicia D,Professor,153190.81,Purdue,1.019,156101.4354
-ReimerTorsten O,Professor,127958.46,Purdue,1.019,130389.6707
-LeeSeung Yoon,Professor,126065.71,Purdue,1.019,128460.9585
-GreeneJohn O,Professor,115115.36,Purdue,1.019,117302.5518
+DeAztlanTonantzin,Assistant Professor,92705.79,Purdue,1.019,94467.20001
+CatalanoCharles S,Assistant Professor,99473.54,Purdue,1.019,101363.5373
 WebbRalph,Professor,100132.28,Purdue,1.019,102034.7933
-Mark Beal,Assistant Professor,145133,Rutgers,0.7543,109473.8219
-Shawnika Hull,Assistant Professor,137918,Rutgers,0.7543,104031.5474
-Yonaira Rivera,Assistant Professor,110534,Rutgers,0.7543,83375.7962
-Dajung Woo,Assistant Professor,102054,Rutgers,0.7543,76979.3322
-Jiawei Fu,Assistant Professor,94687,Rutgers,0.7543,71422.4041
-Matthew Weber,Associate Professor,160750,Rutgers,0.7543,121253.725
-Nikolaos Linardopoulos,Associate Professor,142536,Rutgers,0.7543,107514.9048
-Vikki Katz,Associate Professor,138996,Rutgers,0.7543,104844.6828
-Brian Householder,Associate Professor,123586,Rutgers,0.7543,93220.9198
-Matthew Matsaganis,Associate Professor,120940,Rutgers,0.7543,91225.042
-Katherine Ognyanova,Associate Professor,112712,Rutgers,0.7543,85018.6616
-Lisa Mikesell,Associate Professor,112373,Rutgers,0.7543,84762.9539
-Maria Venetis,Associate Professor,109576,Rutgers,0.7543,82653.1768
-Jeffrey Lane,Associate Professor,106635,Rutgers,0.7543,80434.7805
-Erin Christie,Lecturer,76628,Rutgers,0.7543,57800.5004
-Deborah Yoon,Lecturer,53610,Rutgers,0.7543,40438.023
-Azriela Jaffe,Lecturer,48343,Rutgers,0.7543,36465.1249
+ZulliDiana G,Assistant Professor,100383.13,Purdue,1.019,102290.4095
+JuIlwoo,Assistant Professor,103817.49,Purdue,1.019,105790.0223
+ByrdGabrielle A,Assistant Professor,104113.33,Purdue,1.019,106091.4833
+SongHwanseok,Assistant Professor,104839.79,Purdue,1.019,106831.746
+SherrickBrett I,Assistant Professor,106745.1,Purdue,1.019,108773.2569
+NattJane,Associate Professor,107450.32,Purdue,1.019,109491.8761
+FooteJeremy,Assistant Professor,111556.32,Purdue,1.019,113675.8901
+GreeneJohn O,Professor,115115.36,Purdue,1.019,117302.5518
+HoeweJennifer E,Associate Professor,121094.97,Purdue,1.019,123395.7744
+LeeSeung Yoon,Professor,126065.71,Purdue,1.019,128460.9585
+ReimerTorsten O,Professor,127958.46,Purdue,1.019,130389.6707
+PerraultEvan K,Associate Professor,142045.48,Purdue,1.019,144744.3441
+RobertsFelicia D,Professor,153190.81,Purdue,1.019,156101.4354
+SparksGlenn G,Professor,161749.09,Purdue,1.019,164822.3227
+BoydJoshua E,Professor,166924.48,Purdue,1.019,170096.0451
+ConnaughtonStacey L,Professor,167617.27,Purdue,1.019,170801.9981
+SypherHoward E,Professor,180788.29,Purdue,1.019,184223.2675
+CollinsWilliam B,Professor,189259.87,Purdue,1.019,192855.8075
+MattsonMarifran,Professor,219750.72,Purdue,1.019,223925.9837
 Bryan Sacks,Lecturer,41735,Rutgers,0.7543,31480.7105
-Brent Ruben,Professor,384411,Rutgers,0.7543,289961.2173
-Lea Stewart,Professor,237577,Rutgers,0.7543,179204.3311
-Raymond Dool Jr.,Professor,234468,Rutgers,0.7543,176859.2124
-Itzhak Yanovitzky,Professor,171063,Rutgers,0.7543,129032.8209
-Kathryn Greene,Professor,167251,Rutgers,0.7543,126157.4293
-Galina Bolden,Professor,155718,Rutgers,0.7543,117458.0874
-Jennifer Theiss,Professor,145639,Rutgers,0.7543,109855.4977
-Marya Doerfel,Professor,142205,Rutgers,0.7543,107265.2315
-Jennifer Mandelbaum,Professor,137110,Rutgers,0.7543,103422.073
+Azriela Jaffe,Lecturer,48343,Rutgers,0.7543,36465.1249
+Deborah Yoon,Lecturer,53610,Rutgers,0.7543,40438.023
+Erin Christie,Lecturer,76628,Rutgers,0.7543,57800.5004
+Jiawei Fu,Assistant Professor,94687,Rutgers,0.7543,71422.4041
+Dajung Woo,Assistant Professor,102054,Rutgers,0.7543,76979.3322
+Jeffrey Lane,Associate Professor,106635,Rutgers,0.7543,80434.7805
+Maria Venetis,Associate Professor,109576,Rutgers,0.7543,82653.1768
+Yonaira Rivera,Assistant Professor,110534,Rutgers,0.7543,83375.7962
+Lisa Mikesell,Associate Professor,112373,Rutgers,0.7543,84762.9539
+Katherine Ognyanova,Associate Professor,112712,Rutgers,0.7543,85018.6616
+Matthew Matsaganis,Associate Professor,120940,Rutgers,0.7543,91225.042
+Brian Householder,Associate Professor,123586,Rutgers,0.7543,93220.9198
 ALEXA HEPBURN,Professor,130094,Rutgers,0.7543,98129.9042
-Bryce Henson,Assistant Professor,85617,Texas_A_M,1.1448,98014.3416
-Jonathan Robert Guajardo,Lecturer,50499,Texas_A_M,1.1448,57811.2552
-Larry Lemmons,Lecturer,50391,Texas_A_M,1.1448,57687.6168
-Yunkang Yang,Assistant Professor,86004,Texas_A_M,1.1448,98457.3792
-Angelique C Gammon,Associate Professor,65700,Texas_A_M,1.1448,75213.36
-Anna W Wolfe,Associate Professor,98361,Texas_A_M,1.1448,112603.6728
-Antonio C La Pastina,Associate Professor,96381,Texas_A_M,1.1448,110336.9688
-Dale A Rice,Associate Professor,68040,Texas_A_M,1.1448,77892.192
-Darrel Wanzer-Serrano,Associate Professor,101097,Texas_A_M,1.1448,115735.8456
-David T Tarvin,Associate Professor,55593,Texas_A_M,1.1448,63642.8664
-George Allen O. Villanueva,Associate Professor,98001,Texas_A_M,1.1448,112191.5448
-Jennifer A Lueck,Associate Professor,96129,Texas_A_M,1.1448,110048.4792
-Joseph Lopez,Associate Professor,68220,Texas_A_M,1.1448,78098.256
-Kristan A Poirot,Associate Professor,99846,Texas_A_M,1.1448,114303.7008
-Tasha N Dubriwny,Associate Professor,98532,Texas_A_M,1.1448,112799.4336
-Thomas Burton,Associate Professor,65016,Texas_A_M,1.1448,74430.3168
-Adam R Bajan,Lecturer,50346,Texas_A_M,1.1448,57636.1008
-Chante A Anderson,Lecturer,22635,Texas_A_M,1.1448,25912.548
+Jennifer Mandelbaum,Professor,137110,Rutgers,0.7543,103422.073
+Shawnika Hull,Assistant Professor,137918,Rutgers,0.7543,104031.5474
+Vikki Katz,Associate Professor,138996,Rutgers,0.7543,104844.6828
+Marya Doerfel,Professor,142205,Rutgers,0.7543,107265.2315
+Nikolaos Linardopoulos,Associate Professor,142536,Rutgers,0.7543,107514.9048
+Mark Beal,Assistant Professor,145133,Rutgers,0.7543,109473.8219
+Jennifer Theiss,Professor,145639,Rutgers,0.7543,109855.4977
+Galina Bolden,Professor,155718,Rutgers,0.7543,117458.0874
+Matthew Weber,Associate Professor,160750,Rutgers,0.7543,121253.725
+Kathryn Greene,Professor,167251,Rutgers,0.7543,126157.4293
+Itzhak Yanovitzky,Professor,171063,Rutgers,0.7543,129032.8209
+Raymond Dool Jr.,Professor,234468,Rutgers,0.7543,176859.2124
+Lea Stewart,Professor,237577,Rutgers,0.7543,179204.3311
+Brent Ruben,Professor,384411,Rutgers,0.7543,289961.2173
 Eunhui Kim,Lecturer,50004,Texas_A_M,1.1448,57244.5792
-Jessica M Havens,Lecturer,50472,Texas_A_M,1.1448,57780.3456
 Michael Edward Jacob Beck,Lecturer,50004,Texas_A_M,1.1448,57244.5792
-Michael F Rold,Lecturer,50463,Texas_A_M,1.1448,57770.0424
 Sarah Lindsey Beck,Lecturer,50004,Texas_A_M,1.1448,57244.5792
+Adam R Bajan,Lecturer,50346,Texas_A_M,1.1448,57636.1008
+Larry Lemmons,Lecturer,50391,Texas_A_M,1.1448,57687.6168
+Michael F Rold,Lecturer,50463,Texas_A_M,1.1448,57770.0424
+Jessica M Havens,Lecturer,50472,Texas_A_M,1.1448,57780.3456
+Jonathan Robert Guajardo,Lecturer,50499,Texas_A_M,1.1448,57811.2552
 Stacy H Aschenbeck,Lecturer,54090,Texas_A_M,1.1448,61922.232
+David T Tarvin,Lecturer,55593,Texas_A_M,1.1448,63642.8664
 Charles R Conrad,Professor,56025,Texas_A_M,1.1448,64137.42
-Heidi A Campbell,Professor,115290,Texas_A_M,1.1448,131983.992
-Jennifer R Mercieca,Professor,110043,Texas_A_M,1.1448,125977.2264
-Lu Tang,Professor,127458,Texas_A_M,1.1448,145913.9184
+Thomas Burton,Lecturer,65016,Texas_A_M,1.1448,74430.3168
+Angelique C Gammon,Lecturer,65700,Texas_A_M,1.1448,75213.36
+Dale A Rice,Lecturer,68040,Texas_A_M,1.1448,77892.192
+Joseph Lopez,Lecturer,68220,Texas_A_M,1.1448,78098.256
 Nancy A Street,Professor,68301,Texas_A_M,1.1448,78190.9848
+Bryce Henson,Assistant Professor,85617,Texas_A_M,1.1448,98014.3416
+Yunkang Yang,Assistant Professor,86004,Texas_A_M,1.1448,98457.3792
+Jennifer A Lueck,Associate Professor,96129,Texas_A_M,1.1448,110048.4792
+Antonio C La Pastina,Associate Professor,96381,Texas_A_M,1.1448,110336.9688
+George Allen O. Villanueva,Associate Professor,98001,Texas_A_M,1.1448,112191.5448
+Anna W Wolfe,Associate Professor,98361,Texas_A_M,1.1448,112603.6728
+Tasha N Dubriwny,Associate Professor,98532,Texas_A_M,1.1448,112799.4336
+Kristan A Poirot,Associate Professor,99846,Texas_A_M,1.1448,114303.7008
+Darrel Wanzer-Serrano,Associate Professor,101097,Texas_A_M,1.1448,115735.8456
+Jennifer R Mercieca,Professor,110043,Texas_A_M,1.1448,125977.2264
+Heidi A Campbell,Professor,115290,Texas_A_M,1.1448,131983.992
 Nathan A Crick,Professor,118161,Texas_A_M,1.1448,135270.7128
 Patrick C Burkart,Professor,119205,Texas_A_M,1.1448,136465.884
-Richard L Street Jr,Professor,159678,Texas_A_M,1.1448,182799.3744
+Lu Tang,Professor,127458,Texas_A_M,1.1448,145913.9184
 Sandra Braman,Professor,139923,Texas_A_M,1.1448,160183.8504
-Joe H Cutbirth,Lecturer,73100,Texas_Austin,0.8853,64715.43
-Laura Elizabeth Brown,Assistant Professor,110000,Texas_Austin,0.8853,97383
-Madeleine Redlick Holland,Lecturer,72250,Texas_Austin,0.8853,63962.925
+Richard L Street Jr,Professor,159678,Texas_A_M,1.1448,182799.3744
 Robert W Carroll,Lecturer,70000,Texas_Austin,0.8853,61971
-Roselia Mendez Murillo,Assistant Professor,91000,Texas_Austin,0.8853,80562.3
-Samantha Shorey,Assistant Professor,90700,Texas_Austin,0.8853,80296.71
 Katie Elizabeth Bradford,Lecturer,72005,Texas_Austin,0.8853,63746.0265
-John A Daly,Professor,161655,Texas_Austin,0.8853,143113.1715
-Joshua G Gunn,Professor,141317,Texas_Austin,0.8853,125107.9401
-Jurgen K Streeck,Professor,128035,Texas_Austin,0.8853,113349.3855
-Keri K Stephens,Professor,163577,Texas_Austin,0.8853,144814.7181
+Madeleine Redlick Holland,Lecturer,72250,Texas_Austin,0.8853,63962.925
+Joe H Cutbirth,Lecturer,73100,Texas_Austin,0.8853,64715.43
 Martin R Cox,Professor,75981,Texas_Austin,0.8853,67265.9793
-Matthew S McGlone,Professor,159443,Texas_Austin,0.8853,141154.8879
-Michael Butterworth,Professor,142700,Texas_Austin,0.8853,126332.31
-Natalie J Stroud,Professor,181272,Texas_Austin,0.8853,160480.1016
-Nik Palomares,Professor,155000,Texas_Austin,0.8853,137221.5
+Samantha Shorey,Assistant Professor,90700,Texas_Austin,0.8853,80296.71
+Roselia Mendez Murillo,Assistant Professor,91000,Texas_Austin,0.8853,80562.3
+Laura Elizabeth Brown,Assistant Professor,110000,Texas_Austin,0.8853,97383
 Rene M Dailey,Professor,125835,Texas_Austin,0.8853,111401.7255
-Roderick P Hart,Professor,253481,Texas_Austin,0.8853,224406.7293
-Scott R Stroud,Professor,133000,Texas_Austin,0.8853,117744.9
+Jurgen K Streeck,Professor,128035,Texas_Austin,0.8853,113349.3855
 Sharon E Jarvis,Professor,131771,Texas_Austin,0.8853,116656.8663
-Shiv Ganesh,Professor,182000,Texas_Austin,0.8853,161124.6
+Scott R Stroud,Professor,133000,Texas_Austin,0.8853,117744.9
+Joshua G Gunn,Professor,141317,Texas_Austin,0.8853,125107.9401
+Michael Butterworth,Professor,142700,Texas_Austin,0.8853,126332.31
+Nik Palomares,Professor,155000,Texas_Austin,0.8853,137221.5
 Stacey K Sowards,Professor,157700,Texas_Austin,0.8853,139611.81
-TAOGAO,Assistant Professor,140933,UCLA,0.6692,94312.3636
-GEORGIAKERNELL,Assistant Professor,138850,UCLA,0.6692,92918.42
-JUNGSEOCKJOO,Associate Professor,72625,UCLA,0.6692,48600.65
-PETERLAMBERSON,Associate Professor,179000,UCLA,0.6692,119786.8
-FRANCISSTEEN,Associate Professor,132325,UCLA,0.6692,88551.89
-ANNEWARLAUMONT,Associate Professor,159517,UCLA,0.6692,106748.7764
-NUSHINARBABZADAH,Lecturer,94536,UCLA,0.6692,63263.4912
-MARKHUPPIN,Lecturer,51688,UCLA,0.6692,34589.6096
+Matthew S McGlone,Professor,159443,Texas_Austin,0.8853,141154.8879
+John A Daly,Professor,161655,Texas_Austin,0.8853,143113.1715
+Keri K Stephens,Professor,163577,Texas_Austin,0.8853,144814.7181
+Natalie J Stroud,Professor,181272,Texas_Austin,0.8853,160480.1016
+Shiv Ganesh,Professor,182000,Texas_Austin,0.8853,161124.6
+Roderick P Hart,Professor,253481,Texas_Austin,0.8853,224406.7293
 KARYLKICENSKI,Lecturer,44511,UCLA,0.6692,29786.7612
-STEVENPETERSON,Lecturer,151994,UCLA,0.6692,101714.3848
+MARKHUPPIN,Lecturer,51688,UCLA,0.6692,34589.6096
+JUNGSEOCKJOO,Associate Professor,72625,UCLA,0.6692,48600.65
+NUSHINARBABZADAH,Lecturer,94536,UCLA,0.6692,63263.4912
+FRANCISSTEEN,Associate Professor,132325,UCLA,0.6692,88551.89
+GEORGIAKERNELL,Assistant Professor,138850,UCLA,0.6692,92918.42
+TAOGAO,Assistant Professor,140933,UCLA,0.6692,94312.3636
 MICHAELSUMAN,Lecturer,150596,UCLA,0.6692,100778.8432
-MARIOBIAGIOLI,Professor,298675,UCLA,0.6692,199873.31
+STEVENPETERSON,Lecturer,151994,UCLA,0.6692,101714.3848
+ANNEWARLAUMONT,Associate Professor,159517,UCLA,0.6692,106748.7764
 GREGORYBRYANT,Professor,173667,UCLA,0.6692,116217.9564
-STEVENCLAYMAN,Professor,239642,UCLA,0.6692,160368.4264
 RICHARDDALE,Professor,175367,UCLA,0.6692,117355.5964
+PETERLAMBERSON,Associate Professor,179000,UCLA,0.6692,119786.8
 TIMGROELING,Professor,183350,UCLA,0.6692,122697.82
 MARTIEHASELTON,Professor,194175,UCLA,0.6692,129941.91
-KERRIJOHNSON,Professor,217717,UCLA,0.6692,145696.2164
-STUARTSOROKA,Professor,258817,UCLA,0.6692,173200.3364
 STEVENSTROESSNER,Professor,202850,UCLA,0.6692,135747.22
+KERRIJOHNSON,Professor,217717,UCLA,0.6692,145696.2164
+STEVENCLAYMAN,Professor,239642,UCLA,0.6692,160368.4264
+STUARTSOROKA,Professor,258817,UCLA,0.6692,173200.3364
+MARIOBIAGIOLI,Professor,298675,UCLA,0.6692,199873.31
 LYNNVAVRECK,Professor,338433,UCLA,0.6692,226479.3636
-Margaret J Pitts,Assistant Professor,80424,Unv_Arizona,0.9864,79330.2336
-Matthew Lapierre,Assistant Professor,70809,Unv_Arizona,0.9864,69845.9976
-Kyle J Tusing,Assistant Professor,66922,Unv_Arizona,0.9864,66011.8608
-Patricia M Sias,Associate Professor,95051,Unv_Arizona,0.9864,93758.3064
-Kate M Kenski,Associate Professor,85984,Unv_Arizona,0.9864,84814.6176
-Jennifer L Stevens Aubrey,Associate Professor,82721,Unv_Arizona,0.9864,81595.9944
-Jodi Whitaker,Associate Professor,70335,Unv_Arizona,0.9864,69378.444
-Julie Armstrong,Lecturer,57000,Unv_Arizona,0.9864,56224.8
-Aimee Lynne King,Lecturer,32800,Unv_Arizona,0.9864,32353.92
 Diana K Leonard,Lecturer,30600,Unv_Arizona,0.9864,30183.84
-Chris G Segrin,Professor,149416,Unv_Arizona,0.9864,147383.9424
-James T Harwood,Professor,127294,Unv_Arizona,0.9864,125562.8016
-Stephen A Rains,Professor,102925,Unv_Arizona,0.9864,101525.22
+Aimee Lynne King,Lecturer,32800,Unv_Arizona,0.9864,32353.92
+Julie Armstrong,Lecturer,57000,Unv_Arizona,0.9864,56224.8
+Kyle J Tusing,Assistant Professor,66922,Unv_Arizona,0.9864,66011.8608
+Jodi Whitaker,Associate Professor,70335,Unv_Arizona,0.9864,69378.444
+Matthew Lapierre,Assistant Professor,70809,Unv_Arizona,0.9864,69845.9976
+Margaret J Pitts,Assistant Professor,80424,Unv_Arizona,0.9864,79330.2336
+Jennifer L Stevens Aubrey,Associate Professor,82721,Unv_Arizona,0.9864,81595.9944
+Kate M Kenski,Associate Professor,85984,Unv_Arizona,0.9864,84814.6176
+Patricia M Sias,Associate Professor,95051,Unv_Arizona,0.9864,93758.3064
 Joseph A Bonito,Professor,96953,Unv_Arizona,0.9864,95634.4392
+Stephen A Rains,Professor,102925,Unv_Arizona,0.9864,101525.22
+James T Harwood,Professor,127294,Unv_Arizona,0.9864,125562.8016
+Chris G Segrin,Professor,149416,Unv_Arizona,0.9864,147383.9424
+SOOJONGKIM,Assistant Professor,41483,Unv_Cali_Davis,0.8228,34132.2124
+ALISASHUBB,Lecturer,50177,Unv_Cali_Davis,0.8228,41285.6356
+BARBARAMYSLIK,Lecturer,68202,Unv_Cali_Davis,0.8228,56116.6056
+STEVENBRUNNER,Lecturer,76409,Unv_Cali_Davis,0.8228,62869.3252
+VIRGINIAHAMILTON,Lecturer,106305,Unv_Cali_Davis,0.8228,87467.754
+JEANETTERUIZ,Lecturer,106475,Unv_Cali_Davis,0.8228,87607.63
+HEATHERHETHER,Lecturer,106492,Unv_Cali_Davis,0.8228,87621.6176
 RICHARDHUSKEY,Assistant Professor,107967,Unv_Cali_Davis,0.8228,88835.2476
 SETHFREY,Assistant Professor,111583,Unv_Cali_Davis,0.8228,91810.4924
-SOOJONGKIM,Assistant Professor,41483,Unv_Cali_Davis,0.8228,34132.2124
 DREWCINGEL,Associate Professor,114183,Unv_Cali_Davis,0.8228,93949.7724
 NARINEYEGIYAN,Associate Professor,117417,Unv_Cali_Davis,0.8228,96610.7076
 JINGWENZHANG,Associate Professor,125717,Unv_Cali_Davis,0.8228,103439.9476
-HEATHERHETHER,Lecturer,106492,Unv_Cali_Davis,0.8228,87621.6176
-JEANETTERUIZ,Lecturer,106475,Unv_Cali_Davis,0.8228,87607.63
-STEVENBRUNNER,Lecturer,76409,Unv_Cali_Davis,0.8228,62869.3252
-VIRGINIAHAMILTON,Lecturer,106305,Unv_Cali_Davis,0.8228,87467.754
-BARBARAMYSLIK,Lecturer,68202,Unv_Cali_Davis,0.8228,56116.6056
-ALISASHUBB,Lecturer,50177,Unv_Cali_Davis,0.8228,41285.6356
+JORGEPENA,Professor,127017,Unv_Cali_Davis,0.8228,104509.5876
+MARTINHILBERT,Professor,133325,Unv_Cali_Davis,0.8228,109699.81
 JOHNTHEOBALD,Lecturer,134290,Unv_Cali_Davis,0.8228,110493.812
 JAEHOCHO,Professor,143583,Unv_Cali_Davis,0.8228,118140.0924
-MARTINHILBERT,Professor,133325,Unv_Cali_Davis,0.8228,109699.81
-JORGEPENA,Professor,127017,Unv_Cali_Davis,0.8228,104509.5876
-CUIHUASHEN,Professor,175550,Unv_Cali_Davis,0.8228,144442.54
-LARAMIETAYLOR,Professor,154717,Unv_Cali_Davis,0.8228,127301.1476
 MAGDALENAWOJCIESZAK,Professor,150717,Unv_Cali_Davis,0.8228,124009.9476
+LARAMIETAYLOR,Professor,154717,Unv_Cali_Davis,0.8228,127301.1476
+CUIHUASHEN,Professor,175550,Unv_Cali_Davis,0.8228,144442.54
 "FERNANDES, JULIANA",Assistant Professor,79825,Unv_Florida,0.9854,78659.555
 "MOON, WON KI",Assistant Professor,80000,Unv_Florida,0.9854,78832
-"CHEN, HUAN",Associate Professor,152000,Unv_Florida,0.9854,149780.8
-"FENG, YANG",Associate Professor,98000,Unv_Florida,0.9854,96569.2
-"FISHER, CARLA",Associate Professor,95712.76,Unv_Florida,0.9854,94315.3537
-"JOHNSON, BENJAMIN",Associate Professor,86913.83,Unv_Florida,0.9854,85644.88808
-"WINDELS, KASEY",Associate Professor,86896.98,Unv_Florida,0.9854,85628.28409
-"GERMAN-COLEY, MARIANO",Lecturer,89697,Unv_Florida,0.9854,88387.4238
-"KEMBER, SANTIAGO",Lecturer,88500,Unv_Florida,0.9854,87207.9
 "WINDELS, DANIEL",Lecturer,86688,Unv_Florida,0.9854,85422.3552
-"MORTON PADOVANO, CYNTHIA",Professor,101358.46,Unv_Florida,0.9854,99878.62648
+"WINDELS, KASEY",Associate Professor,86896.98,Unv_Florida,0.9854,85628.28409
+"JOHNSON, BENJAMIN",Associate Professor,86913.83,Unv_Florida,0.9854,85644.88808
+"KEMBER, SANTIAGO",Lecturer,88500,Unv_Florida,0.9854,87207.9
+"GERMAN-COLEY, MARIANO",Lecturer,89697,Unv_Florida,0.9854,88387.4238
+"FISHER, CARLA",Associate Professor,95712.76,Unv_Florida,0.9854,94315.3537
+"FENG, YANG",Associate Professor,98000,Unv_Florida,0.9854,96569.2
 "RAUP-KRIEGER, JANICE",Professor,99822.7,Unv_Florida,0.9854,98365.28858
-"TREISE, DEBORAH",Professor,151361.83,Unv_Florida,0.9854,149151.9473
+"MORTON PADOVANO, CYNTHIA",Professor,101358.46,Unv_Florida,0.9854,99878.62648
 "WEIGOLD, MICHAEL",Professor,138645,Unv_Florida,0.9854,136620.783
-ColesStewart M,Assistant Professor,90522,Unv_Illinois_Urbana,0.9825,88937.865
-GipsonBrooklyne Jewel,Assistant Professor,90386,Unv_Illinois_Urbana,0.9825,88804.245
-KimMin Kyung,Assistant Professor,90085,Unv_Illinois_Urbana,0.9825,88508.5125
-Van DuynEmily Elizabeth,Assistant Professor,91337,Unv_Illinois_Urbana,0.9825,89738.6025
-BarleyWilliam,Associate Professor,109236,Unv_Illinois_Urbana,0.9825,107324.37
-Bigman-GalimoreCabral Aziza,Associate Professor,108190,Unv_Illinois_Urbana,0.9825,106296.675
-BigsbyElisabeth,Associate Professor,101121,Unv_Illinois_Urbana,0.9825,99351.3825
-CisnerosJosue David,Associate Professor,112539,Unv_Illinois_Urbana,0.9825,110569.5675
-GuntzvillerLisa,Associate Professor,109600,Unv_Illinois_Urbana,0.9825,107682
-ThompsonCharee Mooney,Associate Professor,108814,Unv_Illinois_Urbana,0.9825,106909.755
+"TREISE, DEBORAH",Professor,151361.83,Unv_Florida,0.9854,149151.9473
+"CHEN, HUAN",Associate Professor,152000,Unv_Florida,0.9854,149780.8
 AlbertiGeorge Louis,Lecturer,52000,Unv_Illinois_Urbana,0.9825,51090
-BaerNeil Thomas,Lecturer,65520,Unv_Illinois_Urbana,0.9825,64373.4
-BunchCaroline M,Lecturer,58639.86,Unv_Illinois_Urbana,0.9825,57613.66245
-CunninghamLeanne Marie,Lecturer,53395.98,Unv_Illinois_Urbana,0.9825,52461.55035
-GaileyBenjamin Joseph,Lecturer,61129.69,Unv_Illinois_Urbana,0.9825,60059.92043
-GalloFranklin,Lecturer,54480,Unv_Illinois_Urbana,0.9825,53526.6
-GiorgioGrace A,Lecturer,75427.35,Unv_Illinois_Urbana,0.9825,74107.37138
-Jones BarbourJennifer Lynn,Lecturer,80000,Unv_Illinois_Urbana,0.9825,78600
-RameyMary Ellen,Lecturer,62718.9,Unv_Illinois_Urbana,0.9825,61621.31925
 WrightAnna Marie,Lecturer,53000,Unv_Illinois_Urbana,0.9825,52072.5
+CunninghamLeanne Marie,Lecturer,53395.98,Unv_Illinois_Urbana,0.9825,52461.55035
+GalloFranklin,Lecturer,54480,Unv_Illinois_Urbana,0.9825,53526.6
+BunchCaroline M,Lecturer,58639.86,Unv_Illinois_Urbana,0.9825,57613.66245
+GaileyBenjamin Joseph,Lecturer,61129.69,Unv_Illinois_Urbana,0.9825,60059.92043
+RameyMary Ellen,Lecturer,62718.9,Unv_Illinois_Urbana,0.9825,61621.31925
+BaerNeil Thomas,Lecturer,65520,Unv_Illinois_Urbana,0.9825,64373.4
+GiorgioGrace A,Lecturer,75427.35,Unv_Illinois_Urbana,0.9825,74107.37138
 Wright-DixonTrina J,Lecturer,76217.05,Unv_Illinois_Urbana,0.9825,74883.25163
+Jones BarbourJennifer Lynn,Lecturer,80000,Unv_Illinois_Urbana,0.9825,78600
+KimMin Kyung,Assistant Professor,90085,Unv_Illinois_Urbana,0.9825,88508.5125
+GipsonBrooklyne Jewel,Assistant Professor,90386,Unv_Illinois_Urbana,0.9825,88804.245
+ColesStewart M,Assistant Professor,90522,Unv_Illinois_Urbana,0.9825,88937.865
+Van DuynEmily Elizabeth,Assistant Professor,91337,Unv_Illinois_Urbana,0.9825,89738.6025
+BigsbyElisabeth,Associate Professor,101121,Unv_Illinois_Urbana,0.9825,99351.3825
+Bigman-GalimoreCabral Aziza,Associate Professor,108190,Unv_Illinois_Urbana,0.9825,106296.675
+ThompsonCharee Mooney,Associate Professor,108814,Unv_Illinois_Urbana,0.9825,106909.755
+BarleyWilliam,Associate Professor,109236,Unv_Illinois_Urbana,0.9825,107324.37
+GuntzvillerLisa,Associate Professor,109600,Unv_Illinois_Urbana,0.9825,107682
+CisnerosJosue David,Associate Professor,112539,Unv_Illinois_Urbana,0.9825,110569.5675
+KovenMichele E J,Professor,112813,Unv_Illinois_Urbana,0.9825,110838.7725
 AlthausScott,Professor,122036.1,Unv_Illinois_Urbana,0.9825,119900.4683
 BarbourJoshua Ben,Professor,130000,Unv_Illinois_Urbana,0.9825,127725
-CaughlinJohn Patrick,Professor,162133.02,Unv_Illinois_Urbana,0.9825,159295.6922
-DixonTravis L,Professor,204516,Unv_Illinois_Urbana,0.9825,200936.97
-FinneganCara Anne,Professor,141584,Unv_Illinois_Urbana,0.9825,139106.28
-KnoblochLeanne,Professor,147360,Unv_Illinois_Urbana,0.9825,144781.2
-KovenMichele E J,Professor,112813,Unv_Illinois_Urbana,0.9825,110838.7725
-MolinaIsabel,Professor,144993.75,Unv_Illinois_Urbana,0.9825,142456.3594
 MurphyJohn M,Professor,133101,Unv_Illinois_Urbana,0.9825,130771.7325
 O'GormanThomas E,Professor,137926,Unv_Illinois_Urbana,0.9825,135512.295
+FinneganCara Anne,Professor,141584,Unv_Illinois_Urbana,0.9825,139106.28
+MolinaIsabel,Professor,144993.75,Unv_Illinois_Urbana,0.9825,142456.3594
+KnoblochLeanne,Professor,147360,Unv_Illinois_Urbana,0.9825,144781.2
+CaughlinJohn Patrick,Professor,162133.02,Unv_Illinois_Urbana,0.9825,159295.6922
 QuickBrian L,Professor,163527,Unv_Illinois_Urbana,0.9825,160665.2775
-"HALL, ASHLEY R",Assistant Professor,85000,Unv_Iowa,1.031,87635
-"LILLIE, HELEN",Assistant Professor,75920,Unv_Iowa,1.031,78273.52
-"CRAM, E",Associate Professor,90717,Unv_Iowa,1.031,93529.227
-"FIXMER-ORAIZ, NATALIE",Associate Professor,89649,Unv_Iowa,1.031,92428.119
-"HAYES, JOY",Associate Professor,81141,Unv_Iowa,1.031,83656.371
-"KANG, JIYEON",Associate Professor,88691,Unv_Iowa,1.031,91440.421
-"MCLAREN, RACHEL MAREE",Associate Professor,94821,Unv_Iowa,1.031,97760.451
-"MIKUCKI-ENYART, SYLVIA",Associate Professor,85597,Unv_Iowa,1.031,88250.507
-"SUPP-MONTGOMERIE, JENNA",Associate Professor,81982,Unv_Iowa,1.031,84523.442
-"ZAJACZ, RITA",Associate Professor,86888,Unv_Iowa,1.031,89581.528
-"CONRAD, JORDAN BRADLEY",Lecturer,60000,Unv_Iowa,1.031,61860
+DixonTravis L,Professor,204516,Unv_Illinois_Urbana,0.9825,200936.97
 "LOONEY, TIMOTHY M",Lecturer,59980,Unv_Iowa,1.031,61839.38
+"CONRAD, JORDAN BRADLEY",Lecturer,60000,Unv_Iowa,1.031,61860
 "SUPP-MONTGOMERIE, DAVID CHARLES",Lecturer,72075,Unv_Iowa,1.031,74309.325
-"MCLEOD, KEMBREW",Professor,131372,Unv_Iowa,1.031,135444.532
-"HAVENS, TIMOTHY JOHN",Professor,103875,Unv_Iowa,1.031,107095.125
+"LILLIE, HELEN",Assistant Professor,75920,Unv_Iowa,1.031,78273.52
+"HAYES, JOY",Associate Professor,81141,Unv_Iowa,1.031,83656.371
+"SUPP-MONTGOMERIE, JENNA",Associate Professor,81982,Unv_Iowa,1.031,84523.442
+"HALL, ASHLEY R",Assistant Professor,85000,Unv_Iowa,1.031,87635
+"MIKUCKI-ENYART, SYLVIA",Associate Professor,85597,Unv_Iowa,1.031,88250.507
+"ZAJACZ, RITA",Associate Professor,86888,Unv_Iowa,1.031,89581.528
+"KANG, JIYEON",Associate Professor,88691,Unv_Iowa,1.031,91440.421
+"FIXMER-ORAIZ, NATALIE",Associate Professor,89649,Unv_Iowa,1.031,92428.119
+"CRAM, E",Associate Professor,90717,Unv_Iowa,1.031,93529.227
+"MCLAREN, RACHEL MAREE",Associate Professor,94821,Unv_Iowa,1.031,97760.451
 "MAGSAMEN-CONRAD, KATIE C",Professor,101170,Unv_Iowa,1.031,104306.27
+"HAVENS, TIMOTHY JOHN",Professor,103875,Unv_Iowa,1.031,107095.125
+"MCLEOD, KEMBREW",Professor,131372,Unv_Iowa,1.031,135444.532
+MurphyAlexis,Lecturer,47000.25,Unv_Kentucky,1,47000.25
+FrostJonathon,Lecturer,47000.25,Unv_Kentucky,1,47000.25
+HodgsonKelley,Lecturer,48759.75,Unv_Kentucky,1,48759.75
+BoorasTommy,Lecturer,49555.5,Unv_Kentucky,1,49555.5
+HendersonPamela,Lecturer,50565.75,Unv_Kentucky,1,50565.75
+LoweDonald,Lecturer,66830.25,Unv_Kentucky,1,66830.25
+ScottAmber Lynn,Assistant Professor,67500,Unv_Kentucky,1,67500
+DominguezJessica,Assistant Professor,67500,Unv_Kentucky,1,67500
 ZhuXun,Assistant Professor,69999.75,Unv_Kentucky,1,69999.75
 XuQingru,Assistant Professor,71309.25,Unv_Kentucky,1,71309.25
-ScottAmber Lynn,Assistant Professor,67500,Unv_Kentucky,1,67500
 OccaAurora,Assistant Professor,76237.5,Unv_Kentucky,1,76237.5
-DominguezJessica,Assistant Professor,67500,Unv_Kentucky,1,67500
+LewisNicole,Associate Professor,85009.5,Unv_Kentucky,1,85009.5
+McAninchKelly,Associate Professor,89788.5,Unv_Kentucky,1,89788.5
+DragojevicMarko,Associate Professor,91478.25,Unv_Kentucky,1,91478.25
 ScarduzioJennifer,Associate Professor,91713,Unv_Kentucky,1,91713
 PilnyAndrew,Associate Professor,91753.5,Unv_Kentucky,1,91753.5
-McAninchKelly,Associate Professor,89788.5,Unv_Kentucky,1,89788.5
-LimperosAnthony,Associate Professor,123106.5,Unv_Kentucky,1,123106.5
-LewisNicole,Associate Professor,85009.5,Unv_Kentucky,1,85009.5
-DragojevicMarko,Associate Professor,91478.25,Unv_Kentucky,1,91478.25
-SilbermanWill,Lecturer,19200,Unv_Kentucky,1,19200
-MurphyAlexis,Lecturer,47000.25,Unv_Kentucky,1,47000.25
-LoweDonald,Lecturer,66830.25,Unv_Kentucky,1,66830.25
-HodgsonKelley,Lecturer,48759.75,Unv_Kentucky,1,48759.75
-HendersonPamela,Lecturer,50565.75,Unv_Kentucky,1,50565.75
-FrostJonathon,Lecturer,47000.25,Unv_Kentucky,1,47000.25
-BoorasTommy,Lecturer,49555.5,Unv_Kentucky,1,49555.5
-LaneDerek,Professor,118872.75,Unv_Kentucky,1,118872.75
-HelmeDonald,Professor,123953.25,Unv_Kentucky,1,123953.25
-HarringtonNancy,Professor,147568.5,Unv_Kentucky,1,147568.5
 GordonAllison,Professor,102999.75,Unv_Kentucky,1,102999.75
 DesantisAlan,Professor,104432.25,Unv_Kentucky,1,104432.25
-"Steele, Catherine Knight",Assistant Professor,95283.92,Unv_Maryland,0.6652,63382.86358
-"Lee, Sun Young",Assistant Professor,86145.32,Unv_Maryland,0.6652,57303.86686
-"Joyce, Nick M",Assistant Professor,80632.01,Unv_Maryland,0.6652,53636.41305
-"Kim, Jiyoun",Assistant Professor,78825.79,Unv_Maryland,0.6652,52434.91551
-"Namkoong, Kang",Associate Professor,106276.58,Unv_Maryland,0.6652,70695.18102
-"Sommerfeldt, Erich James",Associate Professor,101347.44,Unv_Maryland,0.6652,67416.31709
-"Woods, Carly S.",Associate Professor,95015.75,Unv_Maryland,0.6652,63204.4769
-"Seate, Anita Atwell",Associate Professor,95005.43,Unv_Maryland,0.6652,63197.61204
-"Khamis, Sahar Mohamed",Associate Professor,94675.71,Unv_Maryland,0.6652,62978.28229
-"Maddux, Kristjana Lyn",Associate Professor,94675.69,Unv_Maryland,0.6652,62978.26899
-"Anderson, Lindsey B",Associate Professor,93477.36,Unv_Maryland,0.6652,62181.13987
-"Pfister, Damien S",Associate Professor,93464.85,Unv_Maryland,0.6652,62172.81822
-"Simon, Susan Whyte",Lecturer,64885.01,Unv_Maryland,0.6652,43161.50865
-"Nixon, Adam Wayne",Lecturer,62228.33,Unv_Maryland,0.6652,41394.28512
-"Swift, Christopher Noel",Lecturer,61934.55,Unv_Maryland,0.6652,41198.86266
-"Olson, Jade",Lecturer,60527.95,Unv_Maryland,0.6652,40263.19234
-"Mazzone, Raphael",Lecturer,59119.32,Unv_Maryland,0.6652,39326.17166
-"Bae, Soyoung",Lecturer,58922.08,Unv_Maryland,0.6652,39194.96762
+LaneDerek,Professor,118872.75,Unv_Kentucky,1,118872.75
+LimperosAnthony,Associate Professor,123106.5,Unv_Kentucky,1,123106.5
+HelmeDonald,Professor,123953.25,Unv_Kentucky,1,123953.25
+HarringtonNancy,Professor,147568.5,Unv_Kentucky,1,147568.5
 "Pope, Cassondra N",Lecturer,54909.66,Unv_Maryland,0.6652,36525.90583
-"Parry-Giles, Shawn J.",Professor,204548,Unv_Maryland,0.6652,136065.3296
-"Wolvin, Andrew D.",Professor,148389.19,Unv_Maryland,0.6652,98708.48919
-"Nan, Xiaoli",Professor,127247.33,Unv_Maryland,0.6652,84644.92392
+"Bae, Soyoung",Lecturer,58922.08,Unv_Maryland,0.6652,39194.96762
+"Mazzone, Raphael",Lecturer,59119.32,Unv_Maryland,0.6652,39326.17166
+"Olson, Jade",Lecturer,60527.95,Unv_Maryland,0.6652,40263.19234
+"Swift, Christopher Noel",Lecturer,61934.55,Unv_Maryland,0.6652,41198.86266
+"Nixon, Adam Wayne",Lecturer,62228.33,Unv_Maryland,0.6652,41394.28512
+"Simon, Susan Whyte",Lecturer,64885.01,Unv_Maryland,0.6652,43161.50865
+"Kim, Jiyoun",Assistant Professor,78825.79,Unv_Maryland,0.6652,52434.91551
+"Joyce, Nick M",Assistant Professor,80632.01,Unv_Maryland,0.6652,53636.41305
+"Lee, Sun Young",Assistant Professor,86145.32,Unv_Maryland,0.6652,57303.86686
+"Pfister, Damien S",Associate Professor,93464.85,Unv_Maryland,0.6652,62172.81822
+"Anderson, Lindsey B",Associate Professor,93477.36,Unv_Maryland,0.6652,62181.13987
+"Maddux, Kristjana Lyn",Associate Professor,94675.69,Unv_Maryland,0.6652,62978.26899
+"Khamis, Sahar Mohamed",Associate Professor,94675.71,Unv_Maryland,0.6652,62978.28229
+"Seate, Anita Atwell",Associate Professor,95005.43,Unv_Maryland,0.6652,63197.61204
+"Woods, Carly S.",Associate Professor,95015.75,Unv_Maryland,0.6652,63204.4769
+"Steele, Catherine Knight",Assistant Professor,95283.92,Unv_Maryland,0.6652,63382.86358
+"Sommerfeldt, Erich James",Associate Professor,101347.44,Unv_Maryland,0.6652,67416.31709
+"Namkoong, Kang",Associate Professor,106276.58,Unv_Maryland,0.6652,70695.18102
 "Liu, Brooke Fisher",Professor,115385.98,Unv_Maryland,0.6652,76754.7539
-LisaCalvente,Assistant Professor,86444,Unv_North_Carolina,0.9282,80237.3208
-RishiChebrolu,Assistant Professor,82750,Unv_North_Carolina,0.9282,76808.55
-CATHERINESTRILEY,Assistant Professor,88175,Unv_North_Carolina,0.9282,81844.035
-WILLIAMBROWN,Associate Professor,103983,Unv_North_Carolina,0.9282,96517.0206
-SARAHDEMPSEY,Associate Professor,108311,Unv_North_Carolina,0.9282,100534.2702
-JuliaHaslett,Associate Professor,102717,Unv_North_Carolina,0.9282,95341.9194
-CHRISTIANLUNDBERG,Associate Professor,112086,Unv_North_Carolina,0.9282,104038.2252
-STEVENMAY,Associate Professor,114974,Unv_North_Carolina,0.9282,106718.8668
-AliceMarwick,Associate Professor,103683,Unv_North_Carolina,0.9282,96238.5606
-MICHAELPALM,Associate Professor,103798,Unv_North_Carolina,0.9282,96345.3036
-KUMARINISILVA,Associate Professor,104708,Unv_North_Carolina,0.9282,97189.9656
-MICHAELWALTMAN,Associate Professor,96092,Unv_North_Carolina,0.9282,89192.5944
+"Nan, Xiaoli",Professor,127247.33,Unv_Maryland,0.6652,84644.92392
+"Wolvin, Andrew D.",Professor,148389.19,Unv_Maryland,0.6652,98708.48919
+"Parry-Giles, Shawn J.",Professor,204548,Unv_Maryland,0.6652,136065.3296
 MICHAELACOSTA,Lecturer,57000,Unv_North_Carolina,0.9282,52907.4
-KristinHondros,Lecturer,79996,Unv_North_Carolina,0.9282,74252.2872
 DAVIDMONJE,Lecturer,65140,Unv_North_Carolina,0.9282,60462.948
-KevinMarinelli,Lecturer,82000,Unv_North_Carolina,0.9282,76112.4
-RENEEALEXANDER CRAFT,Professor,145698,Unv_North_Carolina,0.9282,135236.8836
-CorinneDAUBER,Professor,149787,Unv_North_Carolina,0.9282,139032.2934
 JOYGOODWIN,Professor,72000,Unv_North_Carolina,0.9282,66830.4
 JOSEPHMEGEL,Professor,79535,Unv_North_Carolina,0.9282,73824.387
-TORINMONAHAN,Professor,150020,Unv_North_Carolina,0.9282,139248.564
-PATRICIAPARKER,Professor,148465,Unv_North_Carolina,0.9282,137805.213
+KristinHondros,Lecturer,79996,Unv_North_Carolina,0.9282,74252.2872
+KevinMarinelli,Lecturer,82000,Unv_North_Carolina,0.9282,76112.4
+RishiChebrolu,Assistant Professor,82750,Unv_North_Carolina,0.9282,76808.55
+LisaCalvente,Assistant Professor,86444,Unv_North_Carolina,0.9282,80237.3208
+CATHERINESTRILEY,Assistant Professor,88175,Unv_North_Carolina,0.9282,81844.035
+MICHAELWALTMAN,Associate Professor,96092,Unv_North_Carolina,0.9282,89192.5944
+JuliaHaslett,Associate Professor,102717,Unv_North_Carolina,0.9282,95341.9194
+AliceMarwick,Associate Professor,103683,Unv_North_Carolina,0.9282,96238.5606
+MICHAELPALM,Associate Professor,103798,Unv_North_Carolina,0.9282,96345.3036
+WILLIAMBROWN,Associate Professor,103983,Unv_North_Carolina,0.9282,96517.0206
+KUMARINISILVA,Associate Professor,104708,Unv_North_Carolina,0.9282,97189.9656
+SARAHDEMPSEY,Associate Professor,108311,Unv_North_Carolina,0.9282,100534.2702
+CHRISTIANLUNDBERG,Associate Professor,112086,Unv_North_Carolina,0.9282,104038.2252
+STEVENMAY,Associate Professor,114974,Unv_North_Carolina,0.9282,106718.8668
 ANTHONYPERUCCI,Professor,116690,Unv_North_Carolina,0.9282,108311.658
-JOYCERUDINSKY,Professor,149075,Unv_North_Carolina,0.9282,138371.415
+RENEEALEXANDER CRAFT,Professor,145698,Unv_North_Carolina,0.9282,135236.8836
+PATRICIAPARKER,Professor,148465,Unv_North_Carolina,0.9282,137805.213
 Avi-DanSanto,Professor,148720,Unv_North_Carolina,0.9282,138041.904
-"FRIZ, AMANDA",Assistant Professor,93300,Unv_Wash_Sea,0.7061,65879.13
-"GONZALEZ, CARMEN",Assistant Professor,109200,Unv_Wash_Sea,0.7061,77106.12
-"HILL, BENJAMIN",Assistant Professor,56200,Unv_Wash_Sea,0.7061,39682.82
+JOYCERUDINSKY,Professor,149075,Unv_North_Carolina,0.9282,138371.415
+CorinneDAUBER,Professor,149787,Unv_North_Carolina,0.9282,139032.2934
+TORINMONAHAN,Professor,150020,Unv_North_Carolina,0.9282,139248.564
 "TOUNSEL, TIMEKA",Assistant Professor,69200,Unv_Wash_Sea,0.7061,48862.12
 "SLAKER, JANINE",Assistant Professor,78400,Unv_Wash_Sea,0.7061,55358.24
-"RAHMAN, ANIS",Assistant Professor,111600,Unv_Wash_Sea,0.7061,78800.76
-"HSIAO, YUAN",Assistant Professor,113100,Unv_Wash_Sea,0.7061,79859.91
-"COOK, CALEY",Associate Professor,110500,Unv_Wash_Sea,0.7061,78024.05
 "OTANEZ, ANDREA",Associate Professor,80600,Unv_Wash_Sea,0.7061,56911.66
-"SPRATT, MEG",Associate Professor,112400,Unv_Wash_Sea,0.7061,79365.64
-"PEARCE, KATY",Associate Professor,128900,Unv_Wash_Sea,0.7061,91016.29
-"POWERS, MATTHEW",Associate Professor,137400,Unv_Wash_Sea,0.7061,97018.14
-"CECCARELLI, LEAH",Professor,179900,Unv_Wash_Sea,0.7061,127027.39
-"FOOT, KIRSTEN",Professor,157900,Unv_Wash_Sea,0.7061,111493.19
-"HAROLD, CHRISTINE",Professor,156600,Unv_Wash_Sea,0.7061,110575.26
-"JOSEPH, RALINA",Professor,208800,Unv_Wash_Sea,0.7061,147433.68
-"MOY, PATRICIA",Professor,193200,Unv_Wash_Sea,0.7061,136418.52
+"FRIZ, AMANDA",Assistant Professor,93300,Unv_Wash_Sea,0.7061,65879.13
 "NISHIME, LEILANI",Professor,108900,Unv_Wash_Sea,0.7061,76894.29
+"GONZALEZ, CARMEN",Assistant Professor,109200,Unv_Wash_Sea,0.7061,77106.12
+"COOK, CALEY",Associate Professor,110500,Unv_Wash_Sea,0.7061,78024.05
+"RAHMAN, ANIS",Assistant Professor,111600,Unv_Wash_Sea,0.7061,78800.76
+"SPRATT, MEG",Associate Professor,112400,Unv_Wash_Sea,0.7061,79365.64
+"HSIAO, YUAN",Assistant Professor,113100,Unv_Wash_Sea,0.7061,79859.91
+"PEARCE, KATY",Associate Professor,128900,Unv_Wash_Sea,0.7061,91016.29
 "MANUSOV, VALERIE",Professor,135600,Unv_Wash_Sea,0.7061,95747.16
+"POWERS, MATTHEW",Associate Professor,137400,Unv_Wash_Sea,0.7061,97018.14
 "MCGARRITY, MATT",Professor,139600,Unv_Wash_Sea,0.7061,98571.56
 "UNDERWOOD, DOUGLAS",Professor,141800,Unv_Wash_Sea,0.7061,100124.98
+"HAROLD, CHRISTINE",Professor,156600,Unv_Wash_Sea,0.7061,110575.26
+"FOOT, KIRSTEN",Professor,157900,Unv_Wash_Sea,0.7061,111493.19
 "RUSSELL, ADRIENNE",Professor,175100,Unv_Wash_Sea,0.7061,123638.11
-Allison Prasch,Assistant Professor,106833.65,Wisconsin_Madison,0.8674,92667.50801
-Darshana Sreedhar Mini,Assistant Professor,85849.97,Wisconsin_Madison,0.8674,74466.26398
-Jason Lopez,Assistant Professor,95483.3,Wisconsin_Madison,0.8674,82822.21442
-Lillie Williamson,Assistant Professor,90099.97,Wisconsin_Madison,0.8674,78152.71398
-Aaron Greer,Associate Professor,121199.99,Wisconsin_Madison,0.8674,105128.8713
+"CECCARELLI, LEAH",Professor,179900,Unv_Wash_Sea,0.7061,127027.39
+"MOY, PATRICIA",Professor,193200,Unv_Wash_Sea,0.7061,136418.52
+"JOSEPH, RALINA",Professor,208800,Unv_Wash_Sea,0.7061,147433.68
+Lisa Ellis,Lecturer,30267.99,Wisconsin_Madison,0.8674,26254.45453
+Aaron Granat,Lecturer,33371.15,Wisconsin_Madison,0.8674,28946.13551
+Jeffrey Smith,Professor,80621.15,Wisconsin_Madison,0.8674,69930.78551
 Benjamin Singer,Associate Professor,83012,Wisconsin_Madison,0.8674,72004.6088
-Catalina Toma,Associate Professor,126932.52,Wisconsin_Madison,0.8674,110101.2678
-Eric Hoyt,Associate Professor,146535.57,Wisconsin_Madison,0.8674,127104.9534
+Darshana Sreedhar Mini,Assistant Professor,85849.97,Wisconsin_Madison,0.8674,74466.26398
+Lillie Williamson,Assistant Professor,90099.97,Wisconsin_Madison,0.8674,78152.71398
+Jason Lopez,Assistant Professor,95483.3,Wisconsin_Madison,0.8674,82822.21442
+Allison Prasch,Assistant Professor,106833.65,Wisconsin_Madison,0.8674,92667.50801
 Jenell Johnson,Associate Professor,110480,Wisconsin_Madison,0.8674,95830.352
+Aaron Greer,Associate Professor,121199.99,Wisconsin_Madison,0.8674,105128.8713
 Jeremy Morris,Associate Professor,123013.38,Wisconsin_Madison,0.8674,106701.8058
 Lori Lopez,Associate Professor,124116.58,Wisconsin_Madison,0.8674,107658.7215
-Sara Mckinnon,Associate Professor,146457.17,Wisconsin_Madison,0.8674,127036.9493
-Aaron Granat,Lecturer,33371.15,Wisconsin_Madison,0.8674,28946.13551
-Jennifer Wang,Lecturer,9887.99,Wisconsin_Madison,0.8674,8576.842526
-Lisa Ellis,Lecturer,30267.99,Wisconsin_Madison,0.8674,26254.45453
+Catalina Toma,Associate Professor,126932.52,Wisconsin_Madison,0.8674,110101.2678
 Derek Johnson,Professor,137039.46,Wisconsin_Madison,0.8674,118868.0276
-Jeffrey Smith,Professor,80621.15,Wisconsin_Madison,0.8674,69930.78551
-Jonathan Gray,Professor,171948.32,Wisconsin_Madison,0.8674,149147.9728
-Kelley Conway,Professor,152962.99,Wisconsin_Madison,0.8674,132680.0975
-Lea Jacobs,Professor,188967.25,Wisconsin_Madison,0.8674,163910.1927
-Lyn Van Swol,Professor,147223.08,Wisconsin_Madison,0.8674,127701.2996
-Marie-Louise Mares,Professor,172951.38,Wisconsin_Madison,0.8674,150018.027
 Robert Asen,Professor,140412.52,Wisconsin_Madison,0.8674,121793.8198
-Robert Howard,Professor,191935.44,Wisconsin_Madison,0.8674,166484.8007
+Sara Mckinnon,Associate Professor,146457.17,Wisconsin_Madison,0.8674,127036.9493
+Eric Hoyt,Associate Professor,146535.57,Wisconsin_Madison,0.8674,127104.9534
+Lyn Van Swol,Professor,147223.08,Wisconsin_Madison,0.8674,127701.2996
+Kelley Conway,Professor,152962.99,Wisconsin_Madison,0.8674,132680.0975
 Zhongdang Pan,Professor,166560.48,Wisconsin_Madison,0.8674,144474.5604
+Jonathan Gray,Professor,171948.32,Wisconsin_Madison,0.8674,149147.9728
+Marie-Louise Mares,Professor,172951.38,Wisconsin_Madison,0.8674,150018.027
+Lea Jacobs,Professor,188967.25,Wisconsin_Madison,0.8674,163910.1927
+Robert Howard,Professor,191935.44,Wisconsin_Madison,0.8674,166484.8007
